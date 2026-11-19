@@ -1,0 +1,18 @@
+# Visual Studio user-specific files and caches
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET build artifacts
+bin/
+obj/
+
+# Optional test output
+TestResults/
+coverage/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
